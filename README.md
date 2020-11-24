@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am qxdn :smile:
+
+[about me](https://qianxu.run/about/)
+
 <!--
 **qxdn/qxdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
