@@ -2,7 +2,12 @@
 
 I am qxdn :smile:
 
-[about me](https://qianxu.run/about/)
+[my blog](https://qianxu.run)
+
+
+[![qxdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=qxdn&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/qxdn)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact&theme=vue-dark)](https://github.com/qxdn)
 
 <!--
 **qxdn/qxdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
