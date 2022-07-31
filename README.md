@@ -3,7 +3,7 @@
 
 I am qxdn, a master student in ZJU
 
-![](https://img.shields.io/badge/blog-qxdn-brightgreen?style=for-the-badge&logo=hexo) ![](https://img.shields.io/badge/bilibili-qxdn-ff69b4?style=for-the-badge&logo=Bilibili)
+[![](https://img.shields.io/badge/blog-qxdn-brightgreen?style=for-the-badge&logo=hexo)](https://qianxu.run) [![](https://img.shields.io/badge/bilibili-qxdn-ff69b4?style=for-the-badge&logo=Bilibili)](https://space.bilibili.com/11674667)
 
 
 [![qxdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=qxdn&count_private=true&show_icons=true)](https://github.com/qxdn)
