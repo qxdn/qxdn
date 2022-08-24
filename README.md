@@ -10,6 +10,9 @@ I am qxdn, a master student in ZJU
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact)](https://github.com/qxdn)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **qxdn/qxdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
