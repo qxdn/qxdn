@@ -11,9 +11,9 @@ I am qxdn, a master student in ZJU
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact)](https://github.com/qxdn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-404%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-404%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-76-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -58,13 +58,14 @@ Sunday       102 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     23 mins             ████████████████████████░   97.95% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.05%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  23 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  23 mins             █████████████████████████   100.0%
 
 ```
 
@@ -81,7 +82,7 @@ Verilog                  4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2022 16:19:56 UTC
+ Last Updated on 25/08/2022 16:26:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
