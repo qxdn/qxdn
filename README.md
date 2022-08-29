@@ -11,9 +11,9 @@ I am qxdn, a master student in ZJU
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact)](https://github.com/qxdn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-405%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -58,15 +58,16 @@ Sunday       102 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       1 hr 4 mins         ██████████████████░░░░░░░   73.25% 
-YAML                     23 mins             ██████░░░░░░░░░░░░░░░░░░░   26.2% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
+Go                       2 hrs 36 mins       ██████████████████░░░░░░░   71.75% 
+Python                   37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.37% 
+YAML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.66% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
 
 🔥 Editors: 
-VS Code                  1 hr 28 mins        █████████████████████████   100.0%
+VS Code                  3 hrs 37 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 28 mins        █████████████████████████   100.0%
+Windows                  3 hrs 37 mins       █████████████████████████   100.0%
 
 ```
 
@@ -83,7 +84,7 @@ Verilog                  4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2022 16:20:30 UTC
+ Last Updated on 29/08/2022 16:19:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
