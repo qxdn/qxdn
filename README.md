@@ -11,9 +11,9 @@ I am qxdn, a master student in ZJU
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact)](https://github.com/qxdn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -58,17 +58,18 @@ Sunday       101 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       21 hrs 37 mins      ██████████████████████░░░   88.64% 
+Go                       21 hrs 26 mins      ██████████████████████░░░   87.95% 
 Python                   1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.97% 
 Markdown                 35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.43% 
-JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75% 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
+JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76% 
+Other                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17%
 
 🔥 Editors: 
-VS Code                  24 hrs 23 mins      █████████████████████████   100.0%
+VS Code                  24 hrs 15 mins      █████████████████████████   99.52% 
+IntelliJ                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
 
 💻 Operating System: 
-Windows                  24 hrs 23 mins      █████████████████████████   100.0%
+Windows                  24 hrs 22 mins      █████████████████████████   100.0%
 
 ```
 
@@ -85,7 +86,7 @@ Verilog                  4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/11/2022 16:23:28 UTC
+ Last Updated on 08/11/2022 16:24:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
