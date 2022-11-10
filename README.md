@@ -11,9 +11,9 @@ I am qxdn, a master student in ZJU
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact)](https://github.com/qxdn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -29,6 +29,50 @@ I am qxdn, a master student in ZJU
  > 
 > 🔑 20 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    16 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39% 
+🌆 Daytime    129 commits    ██████░░░░░░░░░░░░░░░░░░░   27.33% 
+🌃 Evening    208 commits    ███████████░░░░░░░░░░░░░░   44.07% 
+🌙 Night      119 commits    ██████░░░░░░░░░░░░░░░░░░░   25.21%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
+Tuesday      64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
+Wednesday    62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.14% 
+Thursday     82 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.37% 
+Friday       48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.17% 
+Saturday     58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.29% 
+Sunday       101 commits    █████░░░░░░░░░░░░░░░░░░░░   21.4%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Go                       7 hrs 20 mins       ███████████████████░░░░░░   75.83% 
+Python                   1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.51% 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.24% 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29% 
+C                        10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.78%
+
+🔥 Editors: 
+VS Code                  9 hrs 33 mins       ████████████████████████░   98.79% 
+IntelliJ                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
+
+💻 Operating System: 
+Windows                  9 hrs 40 mins       █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -42,7 +86,7 @@ Verilog                  4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2022 16:21:16 UTC
+ Last Updated on 10/11/2022 16:20:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
