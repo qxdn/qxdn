@@ -11,15 +11,15 @@ I am qxdn, a master student in ZJU
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact)](https://github.com/qxdn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-604%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-606%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 557 Contributions in the Year 2022
+> 🏆 559 Contributions in the Year 2022
  > 
 > 📦 932.6 kB Used in GitHub's Storage 
  > 
@@ -58,17 +58,17 @@ Sunday       100 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   28.97% 
-Go                       1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   28.52% 
-JavaScript               45 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.16% 
-Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.1% 
-JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.78%
+Python                   2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   37.23% 
+Go                       1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   29.41% 
+JavaScript               45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.64% 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.24%
 
 🔥 Editors: 
-VS Code                  4 hrs 27 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 37 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  4 hrs 27 mins       █████████████████████████   100.0%
+Windows                  6 hrs 37 mins       █████████████████████████   100.0%
 
 ```
 
@@ -85,7 +85,7 @@ Verilog                  4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2022 16:20:50 UTC
+ Last Updated on 18/11/2022 16:22:34 UTC
 <!--END_SECTION:waka-->
 
 <!--
