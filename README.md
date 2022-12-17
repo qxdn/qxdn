@@ -11,9 +11,9 @@ I am qxdn, a master student in ZJU
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact)](https://github.com/qxdn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-623%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-685%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -21,7 +21,7 @@ I am qxdn, a master student in ZJU
 
 > 🏆 596 Contributions in the Year 2022
  > 
-> 📦 934.0 kB Used in GitHub's Storage 
+> 📦 933.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,7 +86,7 @@ Verilog                  4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2022 11:37:08 UTC
+ Last Updated on 17/12/2022 16:17:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
