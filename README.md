@@ -11,9 +11,9 @@ I am qxdn, a master student in ZJU
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact)](https://github.com/qxdn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -58,18 +58,18 @@ Sunday       101 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 hrs 43 mins       ████████████░░░░░░░░░░░░░   50.18% 
-Markdown                 2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.34% 
-JavaScript               2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19% 
-Java                     2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.01% 
-Go                       1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.59%
+Python                   8 hrs 36 mins       ████████████░░░░░░░░░░░░░   48.81% 
+Markdown                 2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
+JavaScript               2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.02% 
+Java                     2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85% 
+Go                       1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.55%
 
 🔥 Editors: 
-VS Code                  15 hrs 5 mins       █████████████████████░░░░   86.82% 
-IntelliJ                 2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18%
+VS Code                  15 hrs 19 mins      █████████████████████░░░░   87.0% 
+IntelliJ                 2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.0%
 
 💻 Operating System: 
-Windows                  17 hrs 22 mins      █████████████████████████   100.0%
+Windows                  17 hrs 37 mins      █████████████████████████   100.0%
 
 ```
 
@@ -86,7 +86,7 @@ Verilog                  4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2022 16:19:22 UTC
+ Last Updated on 25/12/2022 16:20:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
