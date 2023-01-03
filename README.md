@@ -11,7 +11,7 @@ I am qxdn, a master student in ZJU
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact)](https://github.com/qxdn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-704%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -29,6 +29,46 @@ I am qxdn, a master student in ZJU
  > 
 > 🔑 21 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    15 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.11% 
+🌆 Daytime    131 commits    ██████░░░░░░░░░░░░░░░░░░░   27.12% 
+🌃 Evening    207 commits    ██████████░░░░░░░░░░░░░░░   42.86% 
+🌙 Night      130 commits    ██████░░░░░░░░░░░░░░░░░░░   26.92%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.01% 
+Tuesday      60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.42% 
+Wednesday    64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
+Thursday     95 commits     █████░░░░░░░░░░░░░░░░░░░░   19.67% 
+Friday       48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.94% 
+Saturday     57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.8% 
+Sunday       101 commits    █████░░░░░░░░░░░░░░░░░░░░   20.91%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Go                       2 hrs 12 mins       ████████████████░░░░░░░░░   65.56% 
+Python                   1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   34.44%
+
+🔥 Editors: 
+VS Code                  3 hrs 22 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  3 hrs 22 mins       █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -42,7 +82,7 @@ Verilog                  4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2023 16:20:35 UTC
+ Last Updated on 03/01/2023 16:19:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
