@@ -11,7 +11,7 @@ I am qxdn, a master student in ZJU
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact)](https://github.com/qxdn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-708%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -58,14 +58,15 @@ Sunday       101 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       2 hrs 12 mins       ████████████████░░░░░░░░░   65.56% 
-Python                   1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   34.44%
+Python                   2 hrs 43 mins       ████████████░░░░░░░░░░░░░   49.27% 
+Go                       2 hrs 39 mins       ████████████░░░░░░░░░░░░░   48.16% 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.57%
 
 🔥 Editors: 
-VS Code                  3 hrs 22 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 31 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 22 mins       █████████████████████████   100.0%
+Windows                  5 hrs 31 mins       █████████████████████████   100.0%
 
 ```
 
@@ -82,7 +83,7 @@ Verilog                  4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2023 16:19:22 UTC
+ Last Updated on 05/01/2023 16:23:52 UTC
 <!--END_SECTION:waka-->
 
 <!--
