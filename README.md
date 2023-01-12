@@ -11,9 +11,9 @@ I am qxdn, a master student in ZJU
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact)](https://github.com/qxdn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-725%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-727%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -58,17 +58,17 @@ Sunday       100 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 hrs 47 mins       ████████████░░░░░░░░░░░░░   48.33% 
-Text                     5 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   28.4% 
-Go                       4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   22.59% 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+Python                   8 hrs 26 mins       ███████████░░░░░░░░░░░░░░   44.07% 
+Text                     7 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   36.8% 
+Go                       3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.48% 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🔥 Editors: 
-VS Code                  18 hrs 12 mins      █████████████████████████   100.0%
+VS Code                  19 hrs 8 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  18 hrs 12 mins      █████████████████████████   100.0%
+Windows                  19 hrs 8 mins       █████████████████████████   100.0%
 
 ```
 
@@ -85,7 +85,7 @@ Verilog                  4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/01/2023 16:28:49 UTC
+ Last Updated on 12/01/2023 16:33:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
