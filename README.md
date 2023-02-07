@@ -11,15 +11,15 @@ I am qxdn, a master student in ZJU
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact)](https://github.com/qxdn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-806%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-808%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 29 Contributions in the Year 2023
+> 🏆 31 Contributions in the Year 2023
  > 
 > 📦 934.6 kB Used in GitHub's Storage 
  > 
@@ -58,18 +58,18 @@ Sunday       98 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     11 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   43.1% 
-TypeScript               9 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   37.15% 
-Docker                   1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.73% 
-Python                   1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.16% 
-SCSS                     50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.17%
+TypeScript               7 hrs 42 mins       ███████████░░░░░░░░░░░░░░   44.39% 
+Java                     5 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   34.27% 
+Python                   1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.37% 
+SCSS                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.86% 
+Docker                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.65%
 
 🔥 Editors: 
-VS Code                  13 hrs 39 mins      ████████████░░░░░░░░░░░░░   51.4% 
-IntelliJ                 12 hrs 54 mins      ████████████░░░░░░░░░░░░░   48.6%
+VS Code                  11 hrs 24 mins      ████████████████░░░░░░░░░   65.72% 
+IntelliJ                 5 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   34.28%
 
 💻 Operating System: 
-Windows                  26 hrs 34 mins      █████████████████████████   100.0%
+Windows                  17 hrs 22 mins      █████████████████████████   100.0%
 
 ```
 
@@ -86,7 +86,7 @@ Verilog                  4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2023 16:22:08 UTC
+ Last Updated on 07/02/2023 16:21:27 UTC
 <!--END_SECTION:waka-->
 
 <!--
