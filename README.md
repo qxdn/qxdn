@@ -11,11 +11,11 @@ I am qxdn, a master student in ZJU
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact)](https://github.com/qxdn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-889%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -56,18 +56,18 @@ Sunday                   162 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     5 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   38.28 % 
-Markdown                 3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   28.24 % 
-Python                   1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Go                       1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Java                     5 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   41.46 % 
+Markdown                 3 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+Go                       2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Python                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 53 mins       ████████████████░░░░░░░░░   63.32 % 
-IntelliJ                 5 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.68 % 
+VS Code                  7 hrs 48 mins       ███████████████░░░░░░░░░░   60.28 % 
+IntelliJ                 5 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   39.72 % 
 
 💻 Operating System: 
-Windows                  14 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +83,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2023 16:12:48 UTC
+ Last Updated on 02/03/2023 16:13:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
