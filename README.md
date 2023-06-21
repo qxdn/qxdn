@@ -13,7 +13,7 @@ I am qxdn, a master student in ZJU
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C055%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
 
@@ -56,17 +56,13 @@ Sunday                   1336 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     35 mins             ██████████████████████░░░   87.90 % 
-TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 36 mins             ██████████████████████░░░   89.05 % 
-VS Code                  4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +78,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2023 16:12:01 UTC
+ Last Updated on 21/06/2023 16:11:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
