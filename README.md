@@ -11,9 +11,9 @@ I am qxdn, a master student in ZJU
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact)](https://github.com/qxdn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C055%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C055%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
 
@@ -56,14 +56,16 @@ Sunday                   1336 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     6 mins              █████████████████░░░░░░░░   67.49 % 
-YAML                     3 mins              ████████░░░░░░░░░░░░░░░░░   32.51 % 
+Java                     6 mins              ██████████████░░░░░░░░░░░   55.64 % 
+YAML                     3 mins              ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+TypeScript               2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
 
 🔥 Editors: 
-IntelliJ                 9 mins              █████████████████████████   100.00 % 
+IntelliJ                 9 mins              █████████████████████░░░░   82.44 % 
+VS Code                  2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+Windows                  11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +81,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/06/2023 16:13:21 UTC
+ Last Updated on 27/06/2023 16:13:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
