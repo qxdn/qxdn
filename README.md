@@ -11,7 +11,7 @@ I am qxdn, a master student in ZJU
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact)](https://github.com/qxdn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C060%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,14 +56,15 @@ Sunday                   1336 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       1 hr 10 mins        ██████████████░░░░░░░░░░░   57.43 % 
-Python                   52 mins             ███████████░░░░░░░░░░░░░░   42.57 % 
+Java                     1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   41.58 % 
+Go                       1 hr 10 mins        ████████░░░░░░░░░░░░░░░░░   33.55 % 
+Python                   52 mins             ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +80,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2023 16:11:00 UTC
+ Last Updated on 24/07/2023 16:12:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
