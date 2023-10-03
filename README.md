@@ -11,9 +11,9 @@ I am qxdn, a master student in ZJU
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact)](https://github.com/qxdn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C179%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C181%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.8%20million%20lines%20of%20code-blue)
 
@@ -56,18 +56,17 @@ Sunday                   1404 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 23 mins       ████████████████████░░░░░   79.24 % 
-Java                     2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-SQL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-Go                       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Python                   6 hrs 38 mins       ██████████████████░░░░░░░   72.16 % 
+Java                     1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+SQL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Go                       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 38 mins      █████████████████████████   98.23 % 
-IntelliJ                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+VS Code                  9 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +82,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2023 16:13:21 UTC
+ Last Updated on 03/10/2023 16:12:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
