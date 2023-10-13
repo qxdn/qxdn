@@ -11,9 +11,9 @@ I am qxdn, a master student in ZJU
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact)](https://github.com/qxdn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C191%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C193%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.8%20million%20lines%20of%20code-blue)
 
@@ -56,17 +56,18 @@ Sunday                   1404 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 1 min         █████████████░░░░░░░░░░░░   50.32 % 
-Python                   3 hrs 47 mins       ████████████░░░░░░░░░░░░░   47.38 % 
+Python                   5 hrs 32 mins       █████████████████░░░░░░░░   68.85 % 
+Markdown                 2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+Go                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 Java                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Ezhil                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 2 mins        █████████████████████████   99.99 % 
+IntelliJ                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  7 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +83,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2023 16:12:59 UTC
+ Last Updated on 13/10/2023 16:12:38 UTC
 <!--END_SECTION:waka-->
 
 <!--
