@@ -11,17 +11,15 @@ I am qxdn, a master student in ZheJiang University
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact)](https://github.com/qxdn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C274%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C283%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 970.9 kB Used in GitHub's Storage 
- > 
-> 🏆 368 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,18 +54,18 @@ Sunday                   1572 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               5 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-Python                   4 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-Java                     2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-JavaScript               2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-JSON                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Python                   6 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+JavaScript               4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+TypeScript               4 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+JSON                     3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Markdown                 2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 25 mins      █████████████████████░░░░   85.26 % 
-IntelliJ                 3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+VS Code                  24 hrs 55 mins      ███████████████████████░░   92.57 % 
+IntelliJ                 1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 
 💻 Operating System: 
-Windows                  20 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +81,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2023 16:11:21 UTC
+ Last Updated on 26/11/2023 16:11:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
