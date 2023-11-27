@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 
-I am qxdn, a master student in ZheJiang University
+I am qxdn, a master student in ZheJiang University. [about me](https://qianxu.run/about/)
 
 [![](https://img.shields.io/badge/blog-qxdn-brightgreen?style=for-the-badge&logo=hexo)](https://qianxu.run) [![](https://img.shields.io/badge/bilibili-qxdn-ff69b4?style=for-the-badge&logo=Bilibili)](https://space.bilibili.com/11674667)
 
