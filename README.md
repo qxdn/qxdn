@@ -11,7 +11,7 @@ I am qxdn, a master student in ZheJiang University. [about me](https://qianxu.ru
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact)](https://github.com/qxdn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C324%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C326%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -19,7 +19,7 @@ I am qxdn, a master student in ZheJiang University. [about me](https://qianxu.ru
 
 **🐱 My GitHub Data** 
 
-> 📦 993.1 kB Used in GitHub's Storage 
+> 📦 992.3 kB Used in GitHub's Storage 
  > 
 > 🏆 469 Contributions in the Year 2023
  > 
@@ -56,18 +56,18 @@ Sunday                   1583 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-TypeScript               4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-Markdown                 3 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-YAML                     3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-JavaScript               1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Python                   5 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+TypeScript               5 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+Markdown                 4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+YAML                     3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+JavaScript               1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 56 mins      ████████████████████████░   96.25 % 
-IntelliJ                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+VS Code                  20 hrs 9 mins       ██████████████████████░░░   90.00 % 
+IntelliJ                 2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 
 💻 Operating System: 
-Windows                  20 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +83,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2023 16:13:18 UTC
+ Last Updated on 09/12/2023 16:12:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
