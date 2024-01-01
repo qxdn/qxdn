@@ -21,7 +21,7 @@ I am qxdn, a master student in ZheJiang University. [about me](https://qianxu.ru
 
 > 📦 993.8 kB Used in GitHub's Storage 
  > 
-> 🏆 698 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,7 +81,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2023 16:12:00 UTC
+ Last Updated on 01/01/2024 16:12:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
