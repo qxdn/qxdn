@@ -13,7 +13,7 @@ I am qxdn, a master student in ZheJiang University. [about me](https://qianxu.ru
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C344%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.9%20million%20lines%20of%20code-blue)
 
@@ -56,17 +56,13 @@ Sunday                   1386 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 54 mins             ████████████████░░░░░░░░░   66.00 % 
-JSON                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-HTML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Go                       0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +78,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/01/2024 16:12:34 UTC
+ Last Updated on 14/01/2024 16:12:00 UTC
 <!--END_SECTION:waka-->
 
 <!--
