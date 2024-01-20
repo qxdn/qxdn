@@ -13,7 +13,7 @@ I am qxdn, a master student in ZheJiang University. [about me](https://qianxu.ru
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C345%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.9%20million%20lines%20of%20code-blue)
 
@@ -56,11 +56,10 @@ Sunday                   1386 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   36 mins             ██████████████░░░░░░░░░░░   57.74 % 
-Markdown                 16 mins             ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+Python                   36 mins             ██████████████░░░░░░░░░░░   57.79 % 
+Markdown                 16 mins             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
 TypeScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
 VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
@@ -82,7 +81,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/01/2024 16:13:08 UTC
+ Last Updated on 20/01/2024 16:11:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
