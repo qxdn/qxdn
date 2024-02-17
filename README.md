@@ -1,92 +1,47 @@
-### Hi there 👋
----
+<br clear="both">
 
-I am qxdn, a master student in ZheJiang University. [about me](https://qianxu.run/about/)
+<h1 align="center" style="margin: 10px; padding: 0px;">Hi~ I'm qxdn ! 👋</h1>
 
-[![](https://img.shields.io/badge/blog-qxdn-brightgreen?style=for-the-badge&logo=hexo)](https://qianxu.run) [![](https://img.shields.io/badge/bilibili-qxdn-ff69b4?style=for-the-badge&logo=Bilibili)](https://space.bilibili.com/11674667)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=480&lines=A+Computer+Vision+And+Backend+Developer" alt="Typing SVG" /></a>
+</p>
 
+<p align="left">Hi, I'm qxdn, a graduate student in computer vision at ZheJiang University 🎓. My research focuses on medical image processing </p>
 
-[![qxdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=qxdn&count_private=true&show_icons=true)](https://github.com/qxdn)
+###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact)](https://github.com/qxdn)
+- 😄 蓬生麻中，不扶自直
+- 🌱 I’m currently learning medical image process.
+- ⚡ Share my coding experience and developing notes on my [blog](http://qianxu.run).
+- 📫 How to reach me: [Email](1464238196@qq.com) | [Twitter @ Al_Fe2O3](https://twitter.com/Al_Fe2O3) | [BiliBili @ qxdn](https://space.bilibili.com/11674667)
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C350%20hrs%2044%20mins-blue)
+##
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="39" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="39" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="39" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg" height="30" width="39" alt="js logo" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" width="39" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="39" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="39" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" width="39" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="39" alt="vscode logo"  />
+</div>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.9%20million%20lines%20of%20code-blue)
+###
 
-**🐱 My GitHub Data** 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qxdn" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qxdn&layout=compact" height="150" alt="languages graph"  />
+</div>
 
-> 📦 997.1 kB Used in GitHub's Storage 
- > 
-> 🏆 30 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 55 Public Repositories 
- > 
-> 🔑 27 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                428 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-🌆 Daytime                2792 commits        ████████░░░░░░░░░░░░░░░░░   30.89 % 
-🌃 Evening                4123 commits        ███████████░░░░░░░░░░░░░░   45.62 % 
-🌙 Night                  1695 commits        █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   1059 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Tuesday                  1157 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Wednesday                1588 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Thursday                 1366 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Friday                   1329 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Saturday                 1153 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Sunday                   1386 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   2 hrs 6 mins        ██████████████░░░░░░░░░░░   55.69 % 
-Markdown                 1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   34.19 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 46 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  3 hrs 46 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   22 repos            ████████░░░░░░░░░░░░░░░░░   30.14 % 
-JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-```
-
-
-
-
- Last Updated on 16/02/2024 16:12:27 UTC
-<!--END_SECTION:waka-->
+###
 
 <!--
-**qxdn/qxdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Qingrenn/Qingrenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
