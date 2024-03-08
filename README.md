@@ -8,6 +8,7 @@
 
 <p align="left">Hi, I'm qxdn, a graduate student in computer vision at ZheJiang University 🎓. My research focuses on medical image processing </p>
 
+![](https://komarev.com/ghpvc/?username=qxdn)
 ###
 
 - 😄 蓬生麻中，不扶自直
