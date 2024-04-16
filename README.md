@@ -1,10 +1,8 @@
 <br clear="both">
 
+<img align='right' src='https://cdn.qxdn.fun/haruka.png' width='410px'>
 <h1 align="center" style="margin: 10px; padding: 0px;">Hi~ I'm qxdn ! 👋</h1>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=480&lines=A+Computer+Vision+And+Backend+Developer" alt="Typing SVG" /></a>
-</p>
 
 <p align="left">Hi, I'm qxdn, a graduate student in computer vision at ZheJiang University 🎓. My research focuses on medical image processing </p>
 
